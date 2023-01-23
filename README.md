@@ -26,6 +26,7 @@ Various types of routes
 ● showing custom 404 component if URL doesn't exist.
 
 ● Redux store(/bank )- managing store 
+![Screenshot (54)](https://user-images.githubusercontent.com/113659313/213988045-23c9055c-6676-493a-92e6-68908e22eaa5.png)
 
 
 ## Learning
@@ -33,6 +34,7 @@ Various types of routes
 ● various Types of Routes.
 
 ● Redux 
+![Screenshot (53)](https://user-images.githubusercontent.com/113659313/213988057-86ca8fbf-3296-4095-90f1-88579f6e19c6.png)
 
 
 
