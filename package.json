@@ -1,5 +1,6 @@
 {
   "name": "reduxproject",
+  "homepage": "https://jiteshcelsys.github.io/redux_router/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
